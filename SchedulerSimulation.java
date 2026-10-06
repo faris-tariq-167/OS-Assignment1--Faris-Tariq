@@ -6,7 +6,7 @@ import java.util.Random;
 
 // ANSI Color Codes for enhanced terminal output
 class Colors {
-// this comment by me (alzahrani) to make sure the comitts are working fine
+// this comment by me (tariq) to make sure the comitts are working fine
 
 
     public static final String RESET = "\u001B[0m";
