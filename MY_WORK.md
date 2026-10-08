@@ -168,16 +168,16 @@
 
 ---
 
-### Entry 4 - [Date and Time]
-**What I did**:
+### Entry 4 - [[October 6, 2026, 8:00 PM]]
+**What I did**: Implemented the Context Switch Counter.
 
-**Details**:
+**Details**: I added a static counter that increments each time a new process starts running. The total number of context switches is displayed at the end of the simulation.
 
-**Challenges**:
+**Challenges**:  I needed to make sure the counter increased at the correct point when a new process started running.
 
-**Solution**:
+**Solution**:  I placed the counter increment in the part of the scheduler where a new process begins execution.
 
-**Time spent**:
+**Time spent**:  1 hour
 
 ---
 
