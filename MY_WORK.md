@@ -293,7 +293,7 @@
 
 **Your Answer:** *(3-5 sentences)*
 
-[Write your answer here.]
+[A process is an independent program with its own memory space, while a thread is a smaller unit of execution that can share memory with other threads in the same program. Processes usually have more creation overhead and communicate more slowly, while threads are lighter and can communicate more easily through shared memory. In my code, the Process class is only a simulated process because it implements Runnable, and a real Java thread is created with new Thread(process) inside addProcessToQueue(). The scheduler then uses currentThread.start() to run that simulated process.]
 
 ## Question 2: Ready Queue Behavior
 
