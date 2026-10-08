@@ -360,13 +360,13 @@ Example from my output:
 ## Summary
 
 **Key concepts I understood through these questions:**
-1.
-2.
-3.
+1.  The difference between a process and a thread.
+2.  How the ready queue and time quantum work in Round-Robin scheduling.
+3.  How thread lifecycle methods such as start(), sleep(), and join() affect execution.
 
 **Concepts I need to study more:**
-1.
-2.
+1.  Thread states and the difference between WAITING and TIMED_WAITING.
+2.  Context switching and how it is handled by real operating systems.
 
 ---
 
