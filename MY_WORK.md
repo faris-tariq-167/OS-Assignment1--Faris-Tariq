@@ -261,7 +261,7 @@
 
 **Your Answer:** *(5-7 sentences)*
 
-[Write your answer here.]
+[Multithreading can be used in many applications to allow different tasks to run without making the whole application wait. For example, a web browser can download content while the user continues interacting with the page. A music player can continue playing music while the user uses other features of the application. Games can also use different threads for tasks such as game logic, input, and background operations. Mobile applications can use background threads for tasks such as downloading data while keeping the user interface responsive. The CPU scheduler assignment helped me understand how a program can manage multiple processes and control when they get CPU time. These concepts can be useful when building larger applications that need to perform several tasks at the same time.]
 
 ### Optional: What would you like to learn more about?
 
