@@ -307,7 +307,7 @@
 
 [In my simulation, the time quantum is 4000 ms, and a process with a burst time greater than the time quantum must be placed back into the ready queue if it has remaining time. For example, P9 has a burst time of 8570 ms, so it cannot finish during one 4000 ms quantum. After using a quantum, the code checks !process.isFinished() and calls addProcessToQueue() again when there are other processes in the queue. Re-queuing is important because it allows other processes to receive CPU time instead of allowing one long process to use the CPU continuously.]
 
-Example from my output:  PASTE YOUR ACTUAL P9 "added to ready queue" LINES HERE
+Example from my output:   P9 "added to ready queue" LINES HERE
 ```
 [Paste a relevant snippet from your program output here showing a process being re-queued]
 ```
