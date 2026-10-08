@@ -245,7 +245,7 @@
 
 **Your Answer:** *(5-7 sentences)*
 
-[Write your answer here.]
+[The most challenging part of the assignment was implementing the waiting time tracking. I had to understand when each process entered the ready queue and when it started running. I used System.currentTimeMillis() to record the required times and calculate the waiting time. I also had to make sure that adding this feature did not change the existing Round Robin behavior. Another challenge was making sure the final table displayed the Process Name, Burst Time, Waiting Time, and Turnaround Time correctly. Understanding where to add the timing code in the existing scheduler took the most effort.]
 
 ## Question 3: How did you overcome the challenges you faced?
 
