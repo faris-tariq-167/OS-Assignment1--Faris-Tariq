@@ -341,21 +341,21 @@ Example from my output:
 
 **Your Answer:** *(3-5 sentences per example)*
 
-### Example 1 (operating-system level): [Name of scenario]
+### Example 1 (operating-system level): [CPU Scheduling]
 
 **Description**:
-[Describe the real-world scenario.]
+[An operating system can use Round-Robin scheduling to share CPU time between multiple running processes. Each process receives a time quantum, similar to the processes in my simulation, and the scheduler moves unfinished processes back to the ready queue. A context switch happens when the CPU changes from one process to another.]
 
 **Why Round-Robin works well here**:
-[Fairness, responsiveness, predictability?]
+[Round-Robin provides fairness because each process gets a chance to use the CPU. It also improves responsiveness because a long-running process cannot keep the CPU for an unlimited amount of time.]
 
-### Example 2: [Name of application/scenario]
+### Example 2: [Interactive Application Tasks]
 
 **Description**:
-[Describe the real-world scenario or application.]
+[A system with multiple interactive tasks can use a Round-Robin-like approach to give each task short periods of CPU time. Each task acts like a process in my simulation, and the time quantum determines how long it can run before another task gets a turn. A context switch occurs when execution moves from one task to another.]
 
 **Why Round-Robin works well here**:
-[Fairness, responsiveness, predictability?]
+[Round-Robin is useful for interactive systems because it provides predictable and fair access to CPU time. This can help prevent one task from making the other tasks appear unresponsive.]
 
 ## Summary
 
