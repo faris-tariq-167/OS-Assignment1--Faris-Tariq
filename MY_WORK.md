@@ -253,7 +253,7 @@
 
 **Your Answer:** *(5-7 sentences)*
 
-[Write your answer here.]
+[I overcame the challenges by first reading the README.md and studying the existing SchedulerSimulation.java file. I followed the scheduler code step by step to understand how the processes move through the ready queue. I then implemented each required feature separately instead of changing everything at once. After each change, I ran the program and checked the output in the terminal. I also used the output to make sure that the priority, context switch counter, and waiting time features were working correctly. When I found formatting issues with the ANSI colors, I tested the program again in the terminal to separate the formatting problem from the scheduler functionality.]
 
 ## Question 4: How can you apply multithreading concepts in real-world applications?
 
