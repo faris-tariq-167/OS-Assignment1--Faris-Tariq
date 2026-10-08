@@ -129,16 +129,16 @@
 
 ## Your Development Log
 
-### Entry 1 - [Date and Time]
-**What I did**:
+### Entry 1 - [October 5, 2026]
+**What I did**:Installed Visual Studio Code and the required Java extensions.
 
-**Details**:
+**Details**: I installed Visual Studio Code and added the Java extensions needed to develop, compile, and run the OS assignment.
 
-**Challenges**:
+**Challenges**: I was not familiar with the Java development setup in Visual Studio Code.
 
-**Solution**:
+**Solution**: I installed the required Java extensions and tested the Java environment.
 
-**Time spent**:
+**Time spent**: 1.5 hour
 
 ---
 
