@@ -194,16 +194,16 @@
 
 ---
 
-### Entry 6 - [Optional - Date and Time]
-**What I did**:
+### Entry 6 - [October 7, 2026, 7:00 PM]
+**What I did**:  Tested the complete CPU scheduler simulation.
 
-**Details**:
+**Details**:  I tested the scheduler after implementing all required features. I checked the process priority display, context switch counter, waiting time table, and the final output formatting.
 
-**Challenges**:
+**Challenges**:  Some terminal formatting and ANSI color codes were not displayed correctly.
 
-**Solution**:
+**Solution**:  I tested the program in the terminal and checked the output to make sure the scheduler functionality was working correctly.
 
-**Time spent**:
+**Time spent**: 1 hour
 
 ---
 
