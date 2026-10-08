@@ -237,7 +237,7 @@
 
 **Your Answer:** *(5-7 sentences)*
 
-[Write your answer here.]
+[I learned about using threads to accomplish multiple tasks in a program at the same time. I learned the usage of Runnable interface to define a task to be executed by a thread. I learned how to start a thread with the method Thread.start() and how to make a thread wait with the method Thread.sleep(). To make the program continue after a thread has finished its job, we use method Thread.join(). I didn't see any significant difference in creating and starting a thread, until this assignment. I enjoyed viewing some of the concepts used to simulate processes in CPU scheduler..]
 
 ## Question 2: What was the most challenging part of this assignment?
 
