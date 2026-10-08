@@ -142,16 +142,16 @@
 
 ---
 
-### Entry 2 - [Date and Time]
-**What I did**:
+### Entry 2 - [October 6, 2026]
+**What I did**:  Set up the OS assignment and studied the existing CPU scheduler.
 
-**Details**:
+**Details**:  I cloned the starter project, opened it in Visual Studio Code, and studied how the existing Round Robin scheduler works, including the ready queue and time quantum.
 
-**Challenges**:
+**Challenges**:  Understanding the existing scheduler structure and how processes move through the ready queue was challenging.
 
-**Solution**:
+**Solution**:  I read through the existing code and followed the scheduler execution step by step before making changes.
 
-**Time spent**:
+**Time spent**:  1.5 hours
 
 ---
 
