@@ -39,7 +39,7 @@
 
 ## 🎥 Video Link
 
-**Video Link**: [Paste your video link here]
+**Video Link**: [[Paste your video link here](https://drive.google.com/drive/folders/1R24HcHEA_snjlUuh1wgmKw_xy6_ODJg_?usp=drive_link)]
 
 > ⚠️ **WARNING:** The video must be **publicly accessible** ("Anyone with the link can view") on **Google Drive**, **YouTube (Unlisted or Public)** or any other cloud file-sharing system. A private, restricted or broken link counts as a **missing video (-1 mark)**.
 >
@@ -375,34 +375,34 @@ Example from my output:
 > ⚠️ **WARNING:** Go through every line. Late submission costs **-1 mark per day**, and the deadline is **October 10, 2026**.
 
 **Repository**
-- [ ] Repository is **PUBLIC** (Settings → Danger Zone → Visibility)
-- [ ] Repository is renamed to `OS-Assignment1-YourFirstName-YourLastName`
-- [ ] GitHub account uses the university email (`@std.psau.edu.sa`)
+- [ yes] Repository is **PUBLIC** (Settings → Danger Zone → Visibility)
+- [yes ] Repository is renamed to `OS-Assignment1-YourFirstName-YourLastName`
+- [ yes] GitHub account uses the university email (`@std.psau.edu.sa`)
 
 **Code**
-- [ ] Student ID is set in `SchedulerSimulation.java` (line 150)
-- [ ] Code compiles and runs with no errors
-- [ ] Feature 1 (priority), Feature 2 (context switches) and Feature 3 (waiting time table) all work
-- [ ] Each feature has clear comments
+- [ yes] Student ID is set in `SchedulerSimulation.java` (line 150)
+- [yes ] Code compiles and runs with no errors
+- [ yes] Feature 1 (priority), Feature 2 (context switches) and Feature 3 (waiting time table) all work
+- [ yes] Each feature has clear comments
 
 **Commits**
-- [ ] **At least 3 meaningful commits, ideally 6 or more**
-- [ ] **One commit per feature**
-- [ ] Commits are spread over **different dates** (not all in the last hour)
-- [ ] Everything is **pushed** to GitHub
+- [yes ] **At least 3 meaningful commits, ideally 6 or more**
+- [yes ] **One commit per feature**
+- [ yes] Commits are spread over **different dates** (not all in the last hour)
+- [yes ] Everything is **pushed** to GitHub
 
 **This file (`MY_WORK.md`)**
-- [ ] Full name and student ID filled in at the top
-- [ ] Development log has **5+ entries** on different dates
-- [ ] Reflection: 4 questions, 5-7 sentences each
-- [ ] Technical answers: 4 questions, 3-5 sentences each, with examples from **your** output
-- [ ] No `[...]` placeholders left
-- [ ] No section headers deleted
+- [yes ] Full name and student ID filled in at the top
+- [yes ] Development log has **5+ entries** on different dates
+- [ yes] Reflection: 4 questions, 5-7 sentences each
+- [yes ] Technical answers: 4 questions, 3-5 sentences each, with examples from **your** output
+- [ yes] No `[...]` placeholders left
+- [ yes] No section headers deleted
 
 **Video**
-- [ ] 2-3 minutes long, named `StudentID_Assignment1_Demo.mp4`
-- [ ] Shows your name, ID, repository, 3 features, IDE execution, one threading concept, and commit history
-- [ ] Link is **public** (tested in an incognito window) and pasted in the **Video Link** section above
+- [yes ] 2-3 minutes long, named `StudentID_Assignment1_Demo.mp4`
+- [ yes] Shows your name, ID, repository, 3 features, IDE execution, one threading concept, and commit history
+- [ yes] Link is **public** (tested in an incognito window) and pasted in the **Video Link** section above
 
 **Blackboard**
 - [ ] Submit **only** the link to your public GitHub repository
