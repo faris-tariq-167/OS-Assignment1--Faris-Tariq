@@ -129,7 +129,7 @@
 
 ## Your Development Log
 
-### Entry 1 - [October 5, 2026]
+### Entry 1 - [[October 5, 2026, 2:00 PM]]
 **What I did**:Installed Visual Studio Code and the required Java extensions.
 
 **Details**: I installed Visual Studio Code and added the Java extensions needed to develop, compile, and run the OS assignment.
@@ -142,7 +142,7 @@
 
 ---
 
-### Entry 2 - [October 6, 2026]
+### Entry 2 - [[October 6, 2026, 3:00 PM]]
 **What I did**:  Set up the OS assignment and studied the existing CPU scheduler.
 
 **Details**:  I cloned the starter project, opened it in Visual Studio Code, and studied how the existing Round Robin scheduler works, including the ready queue and time quantum.
@@ -155,16 +155,16 @@
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**:
+### Entry 3 - [[October 6, 2026, 6:00 PM]]
+**What I did**:  Implemented the Process Priority feature.
 
-**Details**:
+**Details**:  I added a random priority value from 1 to 10 for each process, where 10 is the highest priority. The priority is displayed when the process enters the ready queue. The queue order remains FIFO and is not affected by priority.
 
-**Challenges**:
+**Challenges**:  I needed to display the priority without changing the existing FIFO scheduling behavior.
 
-**Solution**:
+**Solution**:  I added the priority as information displayed for each process while keeping the ready queue order unchanged.
 
-**Time spent**:
+**Time spent**: 1 hour
 
 ---
 
