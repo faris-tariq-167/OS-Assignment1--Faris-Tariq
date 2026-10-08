@@ -211,13 +211,13 @@
 
 > 💡 **TIP:** Fill this in **last**, after all entries are written.
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: [8 hours]
 
-**Most challenging part**:
+**Most challenging part**:  The most challenging part was implementing the waiting time tracking because I needed to understand when processes enter and leave the ready queue and use System.currentTimeMillis() correctly.
 
-**Most interesting learning**:
+**Most interesting learning**:  The most interesting learning was understanding how the Round Robin scheduler works and how features such as process priority, context switching, and waiting time can be added without changing the main scheduling behavior.
 
-**What I would do differently next time**:
+**What I would do differently next time**:  Next time, I would test each feature separately after implementing it before combining all the changes. This would make it easier to find and fix problems.
 
 ---
 
